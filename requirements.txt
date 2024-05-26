@@ -1,2 +1,10 @@
 numpy==1.24.3
 Flask==2.2.2
+urllib3==1.26.16
+ipaddress==1.0.23
+beautifulsoup4==4.12.2
+requests==2.31.0
+xgboost==1.7.5
+pandas==2.0.2
+openai==0.28.0
+whois==0.9.27
